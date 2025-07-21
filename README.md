@@ -2,7 +2,7 @@
 
 
 
-- 🌱 Estudando Desenvolvimento de Sistemas
+- 🌱 Estudando Desenvolvimento de Sistemas Multiplataforma
 
 
 <div>
