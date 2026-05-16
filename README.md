@@ -1,26 +1,43 @@
-## Oii! Eu sou o João👋
+# Olá, eu sou o João Victor! 👋
 
+Bem-vindo(a) ao meu perfil do GitHub. Sou um desenvolvedor em formação, apaixonado por tecnologia, automação e pela criação de interfaces dinâmicas. Atualmente, estou focado em construir aplicações eficientes que funcionem em diversas plataformas.
 
+## 👨‍💻 Sobre mim
 
-- 🌱 Estudando Desenvolvimento de Sistemas Multiplataforma
+* 🎓 Estudando **Desenvolvimento de Software Multiplataforma**.
+* 💡 Tenho forte interesse em desenvolvimento web (Front-end/Back-end) e automação de fluxos de trabalho.
+* 🚀 Sempre em busca de resolver problemas reais através do código e aprender novas ferramentas.
 
+---
 
-<div>
-  <a href="https://github.com/JoaoVictor-tech">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoaoVictor-tech&show_icons=true&theme=dracula"/>
-       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor-tech&layout=compact&langs_coun=16t&theme=dracula"/>
-</div>
+## 🛠️ Tecnologias e Ferramentas
+
+Aqui estão as principais linguagens e tecnologias com as quais trabalho no meu dia a dia:
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Joao-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">  
-  <img align="center" alt="Joao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Joao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Joao-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img align="center" alt="HTML5" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img align="center" alt="CSS3" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+  <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img align="center" alt="React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img align="center" alt="n8n" height="40" width="50" src="https://raw.githubusercontent.com/n8n-io/n8n/master/assets/n8n-logo.png" />
 </div>
 
-##
+<br>
 
-<div> 
-  <a href="https://instagram.com/joao.arruda.5851127" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:jumpiertie39378170406@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
+---
+
+## 📈 O que estou buscando
+
+* Desenvolver projetos práticos para aplicar meus conhecimentos em React e Python.
+* Aprofundar minhas habilidades em criação de automações complexas usando o n8n.
+* Conectar com outros desenvolvedores e participar de projetos de código aberto (Open Source).
+
+---
+
+## 📫 Como me encontrar
+
+* **LinkedIn:** www.linkedin.com/in/joão-victor-lopez-de-arruda-35906637a
+
+
+> *"A melhor maneira de prever o futuro é inventá-lo."*
