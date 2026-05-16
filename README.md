@@ -32,7 +32,7 @@ Aqui estão as principais linguagens e tecnologias com as quais trabalho no meu 
 Aqui está um resumo das linguagens que mais utilizo nos meus projetos:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVictor-tech&layout=compact&theme=dracula&hide_border=true" alt="Linguagens mais usadas" />
 </div>
 
 ---
